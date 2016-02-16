@@ -1,22 +1,55 @@
 body {
+    
 	margin:0px;
+    background-color:deepskyblue
 }
 
 h1 {color:purple;}
-p {color:pink;
+p {color:black;
 	padding:10px;
 
 }
-header {background-color:greenyellow;
-	height:90px;
+header {background-color:deepskyblue;
+	height:143px;
 }
 main {
 	/* background-color:salmon; */
-	padding:20px;
+	padding:;
 }
-#image_block{
-    margin: calc(100%/3);
+#top_left{
+    float:left;
     
+}
+
+
+#top_part{
+    height:;
+    width:;
+    background-color:white;
+}
+#funding{
+    
+    margin:0 auto;
+    background-color:yellowgreen;
+    float:left;animation: 
+}
+
+#teacher{
+    margin:0 auto;
+    background-color:darkblue;
+    float:left
+    
+}
+
+#school{
+    margin:0 auto;
+    background-color:lightblue;
+    float:right;
+}
+
+#donate{
+    margin:0 auto;
+    background-color:green
 }
 
 
@@ -64,11 +97,11 @@ nav{
 	position:relative;
 	top:-31px;
 	right:0px;
-    background-color:aquamarine;
+    background-color:black;
 }
 li{
 	background-color:darkcyan;
-	padding:10px 15px;
+	padding:6px;
 	margin:0px 3px;
 	display:inline;
 	border-radius:4px 4px 0px 0px;
@@ -86,21 +119,10 @@ li a {
 	text-transform:uppercase;
 }
 #logo {
-	padding:20px 0px 0px 20px;
+    height: 100%;
 	width:100%;
     float:right;
 }
 
 
 
-
-
-
-
-
-
-
-
-
-/* #669999 THIS COLOR IS GRAY */
-/* #3333FF THIS COLOR IS BLUE */
