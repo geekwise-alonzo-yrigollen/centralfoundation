@@ -12,7 +12,7 @@ p {color:black;
 header {
     
     background-color:deepskyblue;
-	height:143px;
+	height:133px;
 }
 main {
     
@@ -31,7 +31,7 @@ main {
 #top_left2{
     
     margin:0 auto;
-    padding:20px 20px 20px 720px;
+    padding:20px 10px 10px 450px;
     width:calc(100%/3);
     display:block;
     float:left;
@@ -45,7 +45,7 @@ main {
 }
 
 #funding{
-    
+    width:calc(100%/3)
     margin:0 auto;
     background-color:yellowgreen;
     float:left;animation: 
@@ -74,13 +74,15 @@ main {
 
 #school{
     
-    margin:0 auto;
+    margin:calc(100%/3);
     background-color:lightblue;
-    float:right;
+    float:left;
 }
 
 #donate{
-    margin:0 auto;
+    
+    margin:calc(100%/3);
+    float:right;
     background-color:green
 }
 
@@ -123,20 +125,19 @@ a.button:hover {
 }
 
 nav{
-    height: 20px;
+    height: 40px;
 	width:450px;
 	float:right;
 	position:relative;
-	top:-31px;
-	right:0px;
+	top:-35px;
     background-color:black;
 }
 li{
 	background-color:darkcyan;
-	padding:6px;
-	margin:0px 3px;
+	padding:4px;
+	margin:;
 	display:inline;
-	border-radius:4px 4px 0px 0px;
+	border-radius:;
 
 }
 li:hover {
@@ -144,13 +145,15 @@ li:hover {
 }
 
 li a {
+    margin:0 auto;
+    padding:5px 5px 5px 5px;
 	color:#FFFFFF;
 	text-decoration:none;
-	font-weight:700;
+	font-weight:900;
 	font-size:1em;
 	text-transform:uppercase;
 }
-#logo {
+/*#logo {*/
     height: 100%;
 	width:100%;
     float:right;
