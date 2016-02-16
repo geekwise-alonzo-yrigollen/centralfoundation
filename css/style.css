@@ -1,0 +1,106 @@
+body {
+	margin:0px;
+}
+
+h1 {color:purple;}
+p {color:pink;
+	padding:10px;
+
+}
+header {background-color:greenyellow;
+	height:90px;
+}
+main {
+	/* background-color:salmon; */
+	padding:20px;
+}
+#image_block{
+    margin: calc(100%/3);
+    
+}
+
+
+
+
+footer {
+	background-color:gray;
+	height:120px; 
+	text-align:center;
+}
+footer p {
+	font-size:.002em;
+}
+#copyRight {
+	position:relative;
+	padding:108px 0px 0px 108px;
+	back-ground color:whitesmoke;
+}
+
+
+a.button {
+	background-color:#FF00FF;
+	padding:16px;
+	color:#FFFFFF;
+	text-decoration:none;
+	border-radius:6px;
+	
+}
+a.button:hover {
+	background-color:#FF0000;
+}
+
+
+
+/*. put a class here{*/
+	width:600px;
+	/*height:100px;*/  /* REMOVE THIS HEIGHT */
+	
+}
+
+nav{
+    height: 20px;
+	width:450px;
+	float:right;
+	position:relative;
+	top:-31px;
+	right:0px;
+    background-color:aquamarine;
+}
+li{
+	background-color:darkcyan;
+	padding:10px 15px;
+	margin:0px 3px;
+	display:inline;
+	border-radius:4px 4px 0px 0px;
+
+}
+li:hover {
+	background-color:#0000FF;
+}
+
+li a {
+	color:#FFFFFF;
+	text-decoration:none;
+	font-weight:700;
+	font-size:1em;
+	text-transform:uppercase;
+}
+#logo {
+	padding:20px 0px 0px 20px;
+	width:100%;
+    float:right;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* #669999 THIS COLOR IS GRAY */
+/* #3333FF THIS COLOR IS BLUE */
