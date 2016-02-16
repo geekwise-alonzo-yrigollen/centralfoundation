@@ -1,7 +1,7 @@
 body {
     
 	margin:0px;
-    background-color:deepskyblue
+    background-color:;
 }
 
 h1 {color:purple;}
@@ -14,7 +14,7 @@ header {
     background-color:deepskyblue;
 	height:133px;
 }
-main {
+/*main {*/
     
     margin:;
     background-color:whitesmoke;
@@ -22,19 +22,26 @@ main {
 }
 
 #mission{
-    
+    padding:10px 10px 10px 10px;
     width:calc(100%/3);
     float:left;
-    
+
+}
+
+#toplist{
+    margin: 0 auto;
+    padding: 10px 20px 20px 10px;
+    height: 20px;
 }
 
 #top_left2{
     
-    margin:0 auto;
+    margin:30%;
     padding:20px 10px 10px 450px;
-    width:calc(100%/3);
+    width:100%;
     display:block;
     float:left;
+    background-color:white;
 }
 
 #top_part{
@@ -56,6 +63,7 @@ main {
     width:130px;
     height:75px;
     margin:10px;
+    background-color:yellow;
     border:3px solid #73AD21;
 }
 
@@ -124,8 +132,8 @@ a.button:hover {
 	
 }
 
-nav{
-    height: 40px;
+#toplist{
+    height: 45px;
 	width:450px;
 	float:right;
 	position:relative;
@@ -145,13 +153,14 @@ li:hover {
 }
 
 li a {
-    margin:0 auto;
+    margin:17px;
     padding:5px 5px 5px 5px;
 	color:#FFFFFF;
 	text-decoration:none;
 	font-weight:900;
 	font-size:1em;
 	text-transform:uppercase;
+
 }
 /*#logo {*/
     height: 100%;
