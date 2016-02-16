@@ -15,8 +15,10 @@ header {
 	height:143px;
 }
 main {
+    
+    margin:;
     background-color:whitesmoke;
-	padding:;
+	padding:-120px;
 }
 
 #mission{
@@ -47,11 +49,24 @@ main {
     margin:0 auto;
     background-color:yellowgreen;
     float:left;animation: 
+} 
+
+.floating-box{
+    float: left;
+    width:130px;
+    height:75px;
+    margin:10px;
+    border:3px solid #73AD21;
+}
+
+.after-box{
+    clear:left;
+    border:3px solid red;
 }
 
 #teacher{
     
-    margin:0 auto;
+    margin:;
     background-color:darkblue;
     float:left
     
