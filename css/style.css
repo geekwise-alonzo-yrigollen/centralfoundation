@@ -9,11 +9,13 @@ p {color:black;
 	padding:10px;
 
 }
-header {background-color:deepskyblue;
+header {
+    
+    background-color:deepskyblue;
 	height:143px;
 }
 main {
-	/* background-color:salmon; */
+    background-color:whitesmoke;
 	padding:;
 }
 
@@ -25,12 +27,16 @@ main {
 }
 
 #top_left2{
+    
+    margin:0 auto;
+    padding:20px 20px 20px 720px;
     width:calc(100%/3);
     display:block;
     float:left;
 }
 
 #top_part{
+    
     height:;
     width:calc(100%/3);
     background-color:white;
@@ -44,6 +50,7 @@ main {
 }
 
 #teacher{
+    
     margin:0 auto;
     background-color:darkblue;
     float:left
@@ -51,6 +58,7 @@ main {
 }
 
 #school{
+    
     margin:0 auto;
     background-color:lightblue;
     float:right;
