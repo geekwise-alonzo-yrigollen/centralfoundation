@@ -16,17 +16,26 @@ main {
 	/* background-color:salmon; */
 	padding:;
 }
-#top_left{
+
+#mission{
+    
+    width:calc(100%/3);
     float:left;
     
 }
 
+#top_left2{
+    width:calc(100%/3);
+    display:block;
+    float:left;
+}
 
 #top_part{
     height:;
-    width:;
+    width:calc(100%/3);
     background-color:white;
 }
+
 #funding{
     
     margin:0 auto;
