@@ -1,172 +1,44 @@
-body {
-    
-	margin:0px;
-    background-color:;
-}
-
-h1 {color:purple;}
-p {color:black;
-	padding:10px;
-
-}
-header {
-    
-    background-color:deepskyblue;
-	height:139px;
-}
-main{ 
-    
-    margin:;
-    background-color:whitesmoke;
-	padding:-120px;
-}
-
-#mission{
-    padding:10px 10px 10px 10px;
-    width:calc(100%/3);
-    float:left;
-
-}
-
-#toplist{
-    margin: 0 auto;
-    padding: 10px 20px 20px 10px;
-    height: 20px;
-}
-
-#top_left2{
-    
-    margin:30%;
-    padding:20px 10px 10px 450px;
-    width:100%;
-    display:block;
-    float:left;
-    background-color:white;
-}
-
-#top_part{
-    
-    height:;
-    width:calc(100%/3);
-    background-color:white;
-}
-
-#funding{
-    width:calc(100%/3)
+body{
     margin:0 auto;
-    background-color:yellowgreen;
-    float:left;animation: 
-} 
-
-.floating-box{
-    float: left;
-    width:130px;
-    height:75px;
-    margin:10px;
-    background-color:yellow;
-    border:3px solid #73AD21;
-}
-
-.after-box{
-    clear:left;
-    border:3px solid red;
-}
-
-#teacher{
-    
-    margin:;
-    background-color:darkblue;
-    float:left
+    font-family:arial;
+    line-height: 18px;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 14px;
+    text-align: center;
     
 }
 
-#school{
+header{
     
-    margin:calc(100%/3);
-    background-color:lightblue;
-    float:left;
-}
-
-#donate{
+background-color:#A9B016;
+text-align:center;
     
-    margin:calc(100%/3);
-    float:right;
-    background-color:green
 }
 
-
-
-
-footer {
-	background-color:gray;
-	height:120px; 
-	text-align:center;
-}
-footer p {
-	font-size:.002em;
-}
-#copyRight {
-	position:relative;
-	padding:108px 0px 0px 108px;
-	background-color:whitesmoke;
+main{
+    width: 90%;
+    text-align:center;
+    margin-left:50px;
 }
 
-
-a.button {
-	background-color:gold;
-	padding:16px;
-	color:#FFFFFF;
-	text-decoration:none;
-	border-radius:6px;
-	
-}
-a.button:hover {
-	background-color:orange;
+ul{
+    background-color:#68AEC8;
+    margin:0;
+    padding:0;
 }
 
-
-
-/*. put a class here{*/
-	width:600px;
-	/*height:100px;*/  /* REMOVE THIS HEIGHT */
-	
+.tabs{
+    color:#ffffff;
+    border-color:#3F7B93;
+    box-sizing:border-box;
+    margin:0;
+    padding:5px;
+    width:calc(60%/7);
+    height: 20%;
+    display: inline-block;
+    font-size:2em;
+    
 }
-
-#toplist{
-    height: 45px;
-	width:450px;
-	float:right;
-	position:relative;
-	top:-35px;
-    background-color:black;
-}
-li{
-	background-color:darkcyan;
-	padding:4px;
-	margin:;
-	display:inline;
-	border-radius:;
-
-}
-li:hover {
-	background-color:#0000FF;
-}
-
-li a {
-    margin:17px;
-    padding:5px 5px 5px 5px;
-	color:#FFFFFF;
-	text-decoration:none;
-	font-weight:900;
-	font-size:1em;
-	text-transform:uppercase;
-
-}
-/*#logo {*/
-    height: 100%;
-	width:100%;
-    float:right;
-}
-
 
 
